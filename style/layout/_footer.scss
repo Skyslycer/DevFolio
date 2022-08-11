@@ -29,7 +29,7 @@
   justify-content: center;
 
   a {
-    font-size: 3rem;
+    font-size: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -46,14 +46,8 @@
       .fa-twitter {
         color: #00acee;
       }
-      .fa-instagram {
-        color: #c13584;
-      }
-      .fa-linkedin {
-        color: #4875b4;
-      }
-      .fa-codepen {
-        color: #212121;
+      .fa-github {
+        color: #666666;
       }
     }
   }
